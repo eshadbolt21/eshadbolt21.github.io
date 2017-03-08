@@ -1925,7 +1925,7 @@
 			-webkit-transition: opacity 0.2s ease, -webkit-transform 0.2s ease;
 			-ms-transition: opacity 0.2s ease, -ms-transform 0.2s ease;
 			transition: opacity 0.2s ease, transform 0.2s ease;
-			background: #ffffff;
+			background: #00CED1;
 			border-radius: 3em;
 			content: '';
 			height: 100%;
